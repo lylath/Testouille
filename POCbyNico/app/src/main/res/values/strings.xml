@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">POC by Nico</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Strigs related to menu -->
+    <string name="hello">Bonjour et bievenue sur POC by Nico !</string>
+    <string name="hello_content_debut">C\'est dans cette appli que je réalise mes différents tests et POCs !</string>
+    <string name="hello_content_milieu">Pour découvrir les fonctionnalités, cliquez sur l\'un des boutons suivants : </string>
+    <string name="push_it">Push it !</string>
+    <string name="feelpro">Feel Pro</string>
+    <string name="soutenance">Soutenance</string>
+
+    <!-- Strigs related to push it -->
+    <string name="corps_push_it">They told him don\'t you ever come around here\n
+Don\'t want to see your face, you better disappear\n
+The fire\'s in their eyes and their words are really clear\n
+So push it, just push it\n
+You better run, you better do what you can\n
+Don\'t want to see no blood, don\'t be a macho man\n
+You want to be tough, better do what you can\n
+So push it, but you want to be bad\n
+Just push it, push it, push it, push it\n
+No one wants to be defeated\n
+Showin\' how funky and strong is your fight\n
+It doesn\'t matter who\'s wrong or right\n
+Just push it, push it\n
+Just push it, push it\n
+Just push it, push it\n
+Just push it, push it\n</string>
+
+
+</resources>
